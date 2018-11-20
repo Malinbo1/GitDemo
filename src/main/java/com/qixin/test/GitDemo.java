@@ -9,9 +9,12 @@ public class GitDemo {
 		System.out.println("GitDemo2");
 		System.out.println("GitDemo2");
 		System.out.println("GitDemo2");
+		System.out.println("GitDemo2");
+		System.out.println("GitDemo2");
 	}
 	
 	void gitTest() {
+		System.out.println("gitTest2");
 		System.out.println("gitTest2");
 		System.out.println("gitTest2");
 		System.out.println("gitTest2");
