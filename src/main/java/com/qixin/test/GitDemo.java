@@ -15,6 +15,7 @@ public class GitDemo {
 		System.out.println("GitDemo1");
 		System.out.println("GitDemo1");
 		System.out.println("GitDemo1");
+		System.out.println("dog==========================");
 	}
 	
 	void gitTest() {
