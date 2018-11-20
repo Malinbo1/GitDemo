@@ -16,6 +16,7 @@ public class GitDemo {
 		System.out.println("GitDemo1");
 		System.out.println("GitDemo1");
 		System.out.println("dog==========================");
+		System.out.println("----------------------------------------------");
 	}
 	
 	void gitTest() {
@@ -29,6 +30,7 @@ public class GitDemo {
 		System.out.println("gitTest1");
 		System.out.println("gitTest1");
 		System.out.println("gitTest1");
+		System.out.println("----------------------------------------------");
 	}
 
 }
